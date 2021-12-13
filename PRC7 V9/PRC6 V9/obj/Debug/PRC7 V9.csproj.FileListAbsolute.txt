@@ -1,0 +1,15 @@
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\bin\Debug\PRC6 V9.exe.config
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\bin\Debug\PRC6 V9.exe
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\bin\Debug\PRC6 V9.pdb
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC7 V9.csproj.AssemblyReference.cache
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\MainWindow.g.cs
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\App.g.cs
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6 V9_MarkupCompile.cache
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6 V9_MarkupCompile.lref
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\MainWindow.baml
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6 V9.g.resources
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6_V9.Properties.Resources.resources
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC7 V9.csproj.GenerateResource.cache
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC7 V9.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6 V9.exe
+C:\Users\исп-34\Desktop\PRC7 V9\PRC6 V9\obj\Debug\PRC6 V9.pdb
